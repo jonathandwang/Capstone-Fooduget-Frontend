@@ -1,20 +1,15 @@
-# fooduget_app
+# README
 
-## Project setup
-```
-npm install
-```
+## Frontend Configuration
+[Requirments on Device]
+- Git Clone Backend repository from "Captstone Project Fooduget"
+- Node 15.14 (May run into issues with older versions)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Capstone-Fooduget-Frontend
+## Steps to Setup your Device
+- `npm install` to install Node
+- Open Terminal
+- Be inside the folder in your terminal that you want to place repository
+- `git clone https://github.com/jonathandwang/Capstone-Fooduget-Frontend.git`
+- `npm run serve`
+- Vue Frontend should run!
